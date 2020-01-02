@@ -1,0 +1,4 @@
+/* small overwrites */
+.table th {
+    border-top: none;
+}
